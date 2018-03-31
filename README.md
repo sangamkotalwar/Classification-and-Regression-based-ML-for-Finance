@@ -68,6 +68,9 @@ This portion is under active development at the moment. I have uploaded some of 
 [Classification Based Machine Learning Algorithm](https://nbviewer.jupyter.org/github/anthonyng2/Machine-Learning-For-Finance/blob/master/Classification%20Based%20Machine%20Learning%20for%20Algorithmic%20Trading/Classification%20Based%20Machine%20Learning%20Algorithm.ipynb)
 
 
+Inspired by the works of AnthonyNG. Have added more analysis part to the once he did as a course instructor.
+
+
 
 
 
