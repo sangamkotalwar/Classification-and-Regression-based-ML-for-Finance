@@ -2,7 +2,7 @@
 """
 Created on Wed Jul  5 16:51:39 2017
 
-@author: AnthonyN
+@author: HellRider
 
 https://www.quantstart.com/articles/Forecasting-Financial-Time-Series-Part-1
 

@@ -1,6 +1,6 @@
 '''
-Anthony NG
-@ 2017
+HellRider
+@ 2018
 
 ## MIT License
 
